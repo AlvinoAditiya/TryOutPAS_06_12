@@ -6,8 +6,16 @@
     android:orientation="vertical">
 
     <TextView
-        android:text="Selamat Datang di Home"
+        android:text="Selamat Datang!"
         android:textSize="24sp"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"/>
+
+    <TextView
+        android:text="Silakan pergi ke Dashboard dan pilih Liga yang ingin anda lihat"
+        android:textSize="18sp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:textAlignment="center"/>
 </LinearLayout>
